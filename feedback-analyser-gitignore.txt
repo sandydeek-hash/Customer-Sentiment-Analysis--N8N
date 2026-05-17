@@ -1,0 +1,12 @@
+# Ignore unsanitized workflow exports
+workflow/Feedback_Analyser.json
+
+# Mac OS
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# n8n local config
+.n8n/
