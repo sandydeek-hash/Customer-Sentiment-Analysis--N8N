@@ -162,14 +162,4 @@ Feedback is collected via Google Forms and stored in Google Sheets with these fi
 
 ---
 
-## 📁 Repo Structure
-
-```
-feedback-analyser-n8n/
-├── README.md                                ← Full case study (this file)
-├── workflow/
-│   └── feedback-analyser-sanitized.json    ← Importable n8n workflow (credentials removed)
-└── screenshots/
-    └── workflow-canvas.png                 ← Add your workflow screenshot here
-```
 
