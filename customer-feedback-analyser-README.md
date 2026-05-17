@@ -173,16 +173,3 @@ feedback-analyser-n8n/
     └── workflow-canvas.png                 ← Add your workflow screenshot here
 ```
 
----
-
-## 👩‍💼 About
-
-Built by **Sandhya** — Senior Technical Product Manager with expertise in AI-powered platforms, workflow automation, and customer experience systems.
-
-This project is part of an AI TPM portfolio demonstrating hands-on ability to architect, build, and ship multi-agent AI workflows end-to-end.
-
-🔗 [LinkedIn](#) | [Portfolio](#) | [Email Summarizer Project](#)
-
----
-
-*All credentials and personal data have been removed from the exported workflow. Configure your own Google Sheets, Groq, OpenAI, and Gmail credentials in n8n before running.*
